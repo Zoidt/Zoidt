@@ -1,14 +1,18 @@
-## Hi there 👋
-- 🔭 I’m currently working on fixing a game project from my last year in cegep
-- 🌱 I’m currently learning neovim and python
-- and trying to get an ai agent to play roblox for me
+## Hi there, I'm Zaid 👋
+
+### 🛠️ What I’m Working On
+- Refactoring and improving a singleplayer game I built in my final year at CEGEP 🕹️
+- Learning **Neovim** and diving deeper into software craftsmanship
+- Preparing for the **Google Cloud Professional Cloud Architect** certification ☁️
+
+### 🌱 What I’m Learning
+- AI tools and agent workflows (LLMs, automation, APIs)
+- Google Cloud Platform (GCP): architecture, services, and deployment best practices
+
+### 🚀 Interests
+- AI / Automation
+- Cloud Computing
+- Web3
 
 
-I like web3, AI and learning how things work under the hood!
-<!--
-**Zoidt/Zoidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+🧠 We keep moving forward 📈
