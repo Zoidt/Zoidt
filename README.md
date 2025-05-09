@@ -6,8 +6,9 @@
 - Preparing for the **Google Cloud Professional Cloud Architect** certification ☁️
 
 ### 🌱 What I’m Learning
-- AI tools and agent workflows (LLMs, automation, APIs)
-- Google Cloud Platform (GCP): architecture, services, and deployment best practices
+- Begging ChatGPT to get Claude code to work
+- Emotional Manipulation of LLMS
+- Force push and pray
 
 ### 🚀 Interests
 - AI / Automation
