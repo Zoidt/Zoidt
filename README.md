@@ -7,5 +7,11 @@ Former Vice President of AI-Powered Calculus Salvation for Underperforming Stude
 - Emotional manipulation and blackmailing of LLMS
 - Mossad Agent Training
 
-  
-Vibe coding is obsolete. Buy my course to learn the elite secrets of Vibe Engineering.
+# What I want to learn
+- Rust
+- Robotics
+- Advanced Armament Haki
+
+
+
+Vibe coding is obsolete. Buy my course to learn the elite secrets of Aura Engineering.
