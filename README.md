@@ -1,5 +1,5 @@
 # 🛠️ Experience
-Former Vice President of AI-Powered Calculus Salvation for Underperforming Students™. Coursersa Expert Certification in certifying Architect modules for Coursera Google's GCP Cloud Platform. Currently solutions architechting at Botpress.
+Former Vice President of AI-Powered Calculus Salvation for Underperforming Students™. Coursersa Expert Certification in certifying Architect modules for Coursera Google's GCP Cloud Platform. Currently architechting enterprise solutions at Botpress.
 
 # 🌱 What I’m Learning
 - Industrial confusion & inconvencience engineering
