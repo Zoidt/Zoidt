@@ -11,7 +11,7 @@ Former Vice President of AI-Powered Calculus Salvation for Underperforming Stude
 
 # What I want to learn
 - Rust
-- Robotics
+- Electronics
 - Advanced Armament Haki
 
 
