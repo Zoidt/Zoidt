@@ -1,7 +1,7 @@
 Currently working on a Paramedic Monitor tool to help students run realistic training scenarios 🛠️
 
 # 🛠️ Experience
-Former Vice President of AI-Powered Calculus Salvation for Underperforming Students™. Coursersa Expert Certification in certifying Architect modules for Coursera Google's GCP Cloud Platform. Previously director of architechting enterprise solutions at Botpress. Lead team lead at corpcorp inc. 
+Former Vice President of AI-Powered Calculus Salvation for Underperforming Students™. Coursersa Expert Certification in certifying Architect modules for Coursera Google's GCP Cloud Platform. Previously director of architechting enterprise solutions at Botpress. Currently developing dev ops engineering and developer experience at Ericsson. Lead team lead at corpcorp inc. 
 
 # 🌱 What I’m Learning
 - Industrial confusion & inconvencience engineering
